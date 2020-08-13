@@ -1,0 +1,7 @@
+# TODO: Try to calculate the no. of days and print them
+
+
+Today is: Thursday, August 13
+International Clash Day is: Friday, February 07
+International Clash Day went by 188 days ago
+It's 177 days until International Clash Day
