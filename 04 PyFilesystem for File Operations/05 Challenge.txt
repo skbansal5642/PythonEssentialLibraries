@@ -1,0 +1,1 @@
+Write a program to find the total size of files in a folder.
